@@ -1,4 +1,4 @@
-# 💻 `Dev.md`
+# 💻 `dev.md`
 
 ## Spacy.exe
 ## Spacy.ntaxe
